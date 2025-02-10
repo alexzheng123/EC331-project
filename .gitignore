@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 data/bitcoin_news_data.csv
 data/bitcoin_tweets.csv
+data/NEW_bitcoin_news_data.csv
