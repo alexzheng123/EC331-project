@@ -158,9 +158,9 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-data/NEW_bitcoin_news_data.csv
-data/old_data/bitcoin_tweets.csv
-data/old_data/bitcoin_news_data.csv
+
+# Ignored dataset files due to size
+data/1.0/NEW_bitcoin_news_data.csv
 data/3.0/bitcoin_tweets_data.csv
 data/3.0/RAW_bitcoin_tweets.csv
 data/3.0/cleaned_bitcoin_tweets.csv
