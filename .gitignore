@@ -161,3 +161,6 @@ cython_debug/
 data/NEW_bitcoin_news_data.csv
 data/old_data/bitcoin_tweets.csv
 data/old_data/bitcoin_news_data.csv
+data/3.0/bitcoin_tweets_data.csv
+data/3.0/RAW_bitcoin_tweets.csv
+data/3.0/cleaned_bitcoin_tweets.csv
