@@ -167,3 +167,7 @@ data/3.0/cleaned_bitcoin_tweets.csv
 data/5.0/Bitcoin_data.csv
 models/models_6/X_test.npy
 models/models_6/X_val.npy
+models/models_6.1/X_test.npy
+models/models_6.1/X_val.npy
+models/models_6.2/X_test.npy
+models/models_6.2/X_val.npy
