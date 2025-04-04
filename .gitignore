@@ -178,3 +178,6 @@ EMH/Data/Bitstamp_BTCUSD_2024_minute.csv
 EMH/models/VMD-AttGRU/X_test.npy
 EMH/models/VMD-AttGRU/X_val.npy
 EMH/Data/Full_Bitcoin_data_2024.csv
+EMH/Data/Raw_Bitcoin_data_2024.csv
+EMH/Data/Bitcoin_data_2024_w_TI.csv
+EMH/Data/Bitcoin_data_2024_w_TI_n_Macro.csv
