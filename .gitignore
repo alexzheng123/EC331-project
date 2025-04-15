@@ -160,24 +160,5 @@ cython_debug/
 #.idea/
 
 # Ignored dataset files due to size
-data/1.0/NEW_bitcoin_news_data.csv
-data/3.0/bitcoin_tweets_data.csv
-data/3.0/RAW_bitcoin_tweets.csv
-data/3.0/cleaned_bitcoin_tweets.csv
-data/5.0/Bitcoin_data.csv
-models/models_6/X_test.npy
-models/models_6/X_val.npy
-models/models_6.1/X_test.npy
-models/models_6.1/X_val.npy
-models/models_6.2/X_test.npy
-models/models_6.2/X_val.npy
-EMH/Data/Bitcoin_data_2024.csv
-EMH/Data/Bitcoin_data_full.csv
-EMH/Data/Bitstamp_BTCUSD_2024_minute.csv
-.Rproj.user
-EMH/models/VMD-AttGRU/X_test.npy
-EMH/models/VMD-AttGRU/X_val.npy
-EMH/Data/Full_Bitcoin_data_2024.csv
-EMH/Data/Raw_Bitcoin_data_2024.csv
-EMH/Data/Bitcoin_data_2024_w_TI.csv
-EMH/Data/Bitcoin_data_2024_w_TI_n_Macro.csv
+EMH/Data
+EMH/models
