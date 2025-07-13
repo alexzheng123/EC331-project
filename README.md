@@ -4,7 +4,7 @@ This repository contains the full code for my undergraduate dissertation:
 **"Market Efficiency of Bitcoin in 2024: Evidence from Statistical and Deep Learning Models"**,  
 submitted for EC331: Research in Applied Economics at the University of Warwick.
 
-📄 Full paper: *See dissertation PDF in repo root*
+📄 [Full Dissertation (PDF)](./EC331__Research_in_Applied_Economics.pdf)
 
 ---
 
@@ -13,6 +13,35 @@ submitted for EC331: Research in Applied Economics at the University of Warwick.
 This study investigates the **weak form Efficient Market Hypothesis (EMH)** in the Bitcoin market by analysing **1-minute BTC/USD data from 2024**. I apply both **traditional statistical tests** and **deep learning models**, including a novel **VMD-GRU-Attention** architecture.
 
 Despite extensive volatility in Bitcoin prices, I find evidence of **predictable patterns**, especially when using the VMD-GRU-Attention model, challenging the weak form EMH.
+
+---
+## Sample Visualisations
+
+### 📊 Bitcoin Price & Volume (2024)
+
+![Bitcoin Close Price and Volume](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/Bitcoin%20Close%20Price%20and%20volume.png)
+
+---
+
+### ⚙️ VMD-GRU-Attention Model Architecture
+
+![VMD-GRU-Attention steps](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Attention-steps.png)
+
+---
+
+### 🔍 VMD Decomposition of Returns
+
+![VMD Decomposition](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD%20decomposition.png)
+
+---
+
+### 📈 Forecast vs Actual (Validation & Test)
+
+**Validation Set**  
+![VMD-GRU-Attention Validation](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs...urns%20(Validation%20Set).png)
+
+**Test Set**  
+![VMD-GRU-Attention Test](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs...al%20Returns%20(Test%20Set).png)
 
 ---
 
