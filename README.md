@@ -17,31 +17,30 @@ Despite extensive volatility in Bitcoin prices, I find evidence of **predictable
 ---
 ## Sample Visualisations
 
-### 📊 Bitcoin Price & Volume (2024)
+### Bitcoin Price & Volume (2024)
 
-![Bitcoin Close Price and Volume](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/Bitcoin%20Close%20Price%20and%20volume.png)
-
----
-
-### ⚙️ VMD-GRU-Attention Model Architecture
-
-![VMD-GRU-Attention steps](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Attention-steps.png)
+<img src="https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/Bitcoin%20Close%20Price%20and%20volume.png" width="600"/>
 
 ---
 
-### 🔍 VMD Decomposition of Returns
+### VMD-GRU-Attention Model Architecture
 
-![VMD Decomposition](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD%20decomposition.png)
+<img src="https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Attention-steps.png" width="600"/>
 
 ---
 
-### 📈 Forecast vs Actual (Validation & Test)
+### VMD Decomposition of Returns
 
-**Validation Set**  
-![VMD-GRU-Attention Validation](https://github.com/alexzheng123/EC331-project/blob/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs%20Actual%20Returns%20(Validation%20Set).png)
+<img src="https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD%20decomposition.png" width="600"/>
 
-**Test Set**  
-![VMD-GRU-Attention Test](https://github.com/alexzheng123/EC331-project/blob/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs%20Actual%20Returns%20(Test%20Set).png)
+---
+
+### Forecast vs Actual (Validation & Test)
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs%20Actual%20Returns%20(Validation%20Set).png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs%20Actual%20Returns%20(Test%20Set).png" width="48%"/>
+</div>
 
 ---
 
