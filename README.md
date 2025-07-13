@@ -81,11 +81,5 @@ The **VMD-GRU-Attention model** dramatically outperformed all others, indicating
 - 📚 This codebase is intended for **academic use only**.
 - Please cite the dissertation if you use any part of this project in your own research.
 
----
-
-## 🙏 Acknowledgements
-
-Supervised by **Dr. Jeisson Cárdenas-Rubio**  
-Special thanks to **Dr. Zeynep Kurter** and **Dr. Nathan Canen**
 
 
