@@ -53,7 +53,7 @@ Despite extensive volatility in Bitcoin prices, I find evidence of **predictable
 
 ## Repository Structure
 
-This repo includes all Jupyter notebooks used in the dissertation:
+This repo includes all code used in the dissertation:
 
 ### Statistical Testing
 - `Statistical_tests.ipynb` – Ljung-Box, Runs test, Variance Ratio, Hurst exponent, BDS test
