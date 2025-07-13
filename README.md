@@ -29,7 +29,7 @@ Despite extensive volatility in Bitcoin prices, I find evidence of **predictable
 
 ---
 
-### VMD Decomposition of Returns
+### Variational Mode Decomposition (VMD)
 
 <img src="https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD%20decomposition.png" width="600"/>
 
