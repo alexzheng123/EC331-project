@@ -38,10 +38,10 @@ Despite extensive volatility in Bitcoin prices, I find evidence of **predictable
 ### 📈 Forecast vs Actual (Validation & Test)
 
 **Validation Set**  
-![VMD-GRU-Attention Validation](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs...urns%20(Validation%20Set).png)
+![VMD-GRU-Attention Validation](https://github.com/alexzheng123/EC331-project/blob/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs%20Actual%20Returns%20(Validation%20Set).png)
 
 **Test Set**  
-![VMD-GRU-Attention Test](https://raw.githubusercontent.com/alexzheng123/EC331-project/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs...al%20Returns%20(Test%20Set).png)
+![VMD-GRU-Attention Test](https://github.com/alexzheng123/EC331-project/blob/main/EMH/images/No%20titles/VMD-GRU-Att%20Forecast%20vs%20Actual%20Returns%20(Test%20Set).png)
 
 ---
 
