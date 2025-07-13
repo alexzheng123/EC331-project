@@ -63,15 +63,16 @@ This repo includes all Jupyter notebooks used in the dissertation:
 
 ## Key Findings
 
-| Model                | Test MAE | Test RMSE |
-|---------------------|----------|-----------|
-| Naïve Benchmark     | 0.0476   | 0.0749    |
-| ARIMA               | 0.0476   | 0.0749    |
-| GRU (basic)         | 0.0480   | 0.0749    |
-| GRU (with macro/sentiment) | 0.0478 | 0.0749    |
-| **VMD-GRU-Attention** | **0.0158** | **0.0239** |
+| Model                          | Test MAE | Test RMSE |
+|-------------------------------|----------|-----------|
+| Naïve Benchmark               | 0.0476   | 0.0749    |
+| ARIMA                         | 0.0476   | 0.0749    |
+| GRU (basic)                   | 0.0480   | 0.0749    |
+| GRU (with macro/sentiment)    | 0.0478   | 0.0749    |
+| VMD-AttGRU (from literature)  | 0.0457   | 0.0703    |
+| **VMD-GRU-Attention (proposed)** | **0.0158** | **0.0239** |
 
-The **VMD-GRU-Attention model** dramatically outperformed all others, indicating that short-term Bitcoin returns in 2024 are **not fully random**.
+The **VMD-GRU-Attention model** considerably outperformed all others with high accuracy, suggesting that short-term Bitcoin returns in 2024 are **not fully random**, and that **potentially exploitable trading opportunities** may exist.
 
 ---
 
