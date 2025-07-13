@@ -100,7 +100,7 @@ This repo includes all code used in the dissertation:
 | VMD-AttGRU (from literature)  | 0.0457   | 0.0703    |
 | **VMD-GRU-Attention (proposed)** | **0.0158** | **0.0239** |
 
-The **VMD-GRU-Attention model** considerably outperformed all others with high accuracy, suggesting that short-term Bitcoin returns in 2024 are **not fully random**, and that **potentially exploitable trading opportunities** may exist within the bitcoin market.
+The **VMD-GRU-Attention model** considerably outperformed all others with high accuracy, suggesting that short-term Bitcoin returns in 2024 are **not fully random**, and that **potentially exploitable trading opportunities** may exist within the Bitcoin market.
 
 ---
 
